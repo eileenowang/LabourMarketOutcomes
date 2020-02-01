@@ -20,3 +20,22 @@ Truthfulness - It would be inaccurate to tell any student with a undergraduate d
 # Wireframe a solution
 I am a pen-and-paper kind of thinker, so I decided to wireframe on a piece of paper:
 ![My wireframes](https://i.ibb.co/QYnPrcy/IMG-0450.jpg)
+
+I showed all 3 options to a friend, and here is the feedback: 
+Option 1:
+- It doesn't make sense why you are stacking the degree against income. Did you mean to show the proportion of degree within each field of study? 
+
+Option 2: 
+- For this graph, it will be interesting to see how the same degree results in different income levels. 
+- Do you have a lot of field of studies? Seems complicated with all the bars. 
+
+Option 3: 
+- Where is the 5 year outcome? I thought the goal is to compare and contrast 2 year and 5 year here (like you did in the previous option). 
+- The dot format is interesting, I can easily focus on the top incomes from different fields of study. 
+
+In the end, I decided to implement Option 2 as my solution, because it had the most comprehensive visualization of all aspects of my dataset. I also wanted to see if the bars will indeed look overcrowded. 
+
+# Solution-building 
+My initial solution: 
+
+Feedback from viewer: I like it! You can see how valuable each level of attainment is for each field is. For architecture & engineering, getting a masters degree doesn't help very much. For education it helps a lot! One thing I'd like to see, is the 2 levels overlay one another. So for business administration, if you can stack them, and the difference is in a different color, then the difference is obvious. 
