@@ -41,9 +41,9 @@ My initial solution via Tableau:
 ![Version 1](LabourMarket_V1.png)
 Feedback from viewer 1: I like it! You can see how valuable each level of attainment is for each field is. For architecture & engineering, getting a masters degree doesn't help very much. For education it helps a lot! One thing I'd like to see, is the 2 levels overlay one another. So for business administration, if you can stack them, and the difference is in a different color, then the difference is obvious. 
 
-Feedback from viewer 2: I think if I was a student, I would find this a great resource for figuring out what field of study I want to pursue, and whether obtaining a higher degree in that field of study would make a significant income difference. Is there something you could do about how wide this chart is? I have to keep going between year 2 and year 5 to understand what the differences are in income.
+Feedback from viewer 2: I think if I was a student, I would find this a great resource for figuring out what field of study I want to pursue, and whether obtaining a higher degree in that field of study would make a significant income difference. Is there something you could do about how wide this chart is? I have to keep going between year 2 and year 5 to understand what the differences are in income. Also, there are a lot of bars - I'm not quite sure how the top bars match up to the income scale on the bottom. 
 
-My thoughts: It's interesting that both viewers suggested that somehow combining the 2 year and 5 year data would help them visually compare income.
+My thoughts: It's interesting that both viewers suggested that somehow combining the 2 year and 5 year data would help them visually compare income. I can also label the bars with the actual values to help viewers get an accurate sense of income. 
 
 # Solution-building, V.2
 ![Version 2](LabourMarket_V2.png)
@@ -52,6 +52,8 @@ Iteration strategies:
 Stacked bars- Helped make the difference in income between 2 years vs. 5 years in each field of study clear. Whereas before, the eye had to wander between the two bars to imagine the difference. 
 
 Contrasting colors in stacked bars- The 2 year income in blue is visually very different than 5 year income illustrated in orange. It helps make the difference glancible and easy to understand.
+
+Labeling of bars- The labeling of bars helps viewers be able to accurately assess "high" and "low" income without havingto look at the scale on the bottom of chart. 
 
 # Summary of my process 
 
