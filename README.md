@@ -1,4 +1,4 @@
-# Introduction to dataset - Why I chose it
+# Introduction to dataset - Why I chose to work on this
 As a student, it is important to be aware of how to translate what you learned in school into the real world. One of the necessary translations is understanding how the market quantifies your contribution in the workforce. This is why I have taken an interest in Statistics Canada's dataset on Labour market outcomes for college and university graduates [found here](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2019031-eng.htm). This specific dataset documents Class of 2012's income both 2 years after graduating and 5 years after graduating. Variables such as field of study and educational qualification played significant roles in affecting income. 
 
 # My goals
