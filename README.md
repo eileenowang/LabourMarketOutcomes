@@ -37,5 +37,5 @@ In the end, I decided to implement Option 2 as my solution, because it had the m
 
 # Solution-building 
 My initial solution: 
-
+![Version 1](LabourMarket_V1.png)
 Feedback from viewer: I like it! You can see how valuable each level of attainment is for each field is. For architecture & engineering, getting a masters degree doesn't help very much. For education it helps a lot! One thing I'd like to see, is the 2 levels overlay one another. So for business administration, if you can stack them, and the difference is in a different color, then the difference is obvious. 
