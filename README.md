@@ -62,8 +62,12 @@ To help me think through some potential ideas to better visualize, I sketched so
 
 The feedback received from my initial ideas gave me enough reasons to pursue Option 2, and create my solution in Tableau. With my version 1 of solution done, I asked another friend to review my chart. My friend immediately started voicing insights he gathered from looking at my chart, which I thought was a good sign. He then commented on some opportunities to improve, which I took back and used as a base to create version 2 of my solution.
 
-# Sources
+# Sources & relevant links
 Original data and initial visualization obtained from: 
 Statistics Canada. Table 37-10-0115-01 Characteristics and median employment income of longitudinal cohorts of postsecondary graduates two and five years after graduation, by educational qualification and field of study (alternative primary groupings), 2010 to 2012 cohorts [click here to view](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710011501 DOI: https://doi.org/10.25318/3710011501-eng)
 
 Tool used to visualize solution: Tableau [click here for more info](https://www.tableau.com/)
+
+Public link to [access this page](https://eileenowang.github.io/LabourMarketOutcomes/)
+
+[Return my main Data Visualization page](https://eileenowang.github.io/data-visualization/)
