@@ -13,7 +13,7 @@ Intuitiveness- The bar graph chosen is a commonly used visualization, and theref
 Limit use of colors- I like how there are only 2 colors used, light blue and dark blue. It conveys the contrast income data effectively.
 
 What doesn't work well:
-Completeness- Only when I downloaded the dataset did I realize that there is a important variable that was not considered in the visualization: Field of study. Furthermore, the income actually differs quite a lot depending on field of study across the educational qualifications. 
+Completeness- Only when I downloaded the dataset did I realize that there is a important variable that was not considered in the visualization: Field of study. Furthermore, the income actually differs quite a lot depending on field of study across the educational qualifications.
 
 Truthfulness - It would be inaccurate to tell any student with a undergraduate degree that they can expect the median graduate income, if they went and obtained the graduate degree. Field of study is a attribute that is not exhibited, and it heavily impacts the income. The visualization does not depict the variability of income depending on field of study. 
 
@@ -56,7 +56,11 @@ Contrasting colors in stacked bars- The 2 year income in blue is visually very d
 Labeling of bars- The labeling of bars helps viewers be able to accurately assess "high" and "low" income without havingto look at the scale on the bottom of chart. 
 
 # Summary of my process 
+When I first saw the data visualization on the Statistics Canada website, I thought to myself "it's an interesting topic and the visualization already looks good". But then, when I compared the amount of insightful information in the actual dataset vs. what was visualized, I realized there is actually many missed opportunities - the biggest ones being: 1) The chance to compare and contrast income within both the same field of study but different educational qualification, and 2) different fields of study but same educational qualification. 
 
+To help me think through some potential ideas to better visualize, I sketched some potential options on paper. This helps me avoid relying on pre-made charts online or through Tableau. Next, I ran them through a friend, who gave me some pros and cons of the ideas I generated. In one case (with option 1), telling me that it actually makes no sense. But in my mind it did... so I'm glad I asked my friend to look at it! 
+
+The feedback received from my initial ideas gave me enough reasons to pursue Option 2, and create my solution in Tableau. With my version 1 of solution done, I asked another friend to review my chart. My friend immediately started voicing insights he gathered from looking at my chart, which I thought was a good sign. He then commented on some opportunities to improve, which I took back and used as a base to create version 2 of my solution.
 
 # Sources
 Original data and initial visualization obtained from: 
