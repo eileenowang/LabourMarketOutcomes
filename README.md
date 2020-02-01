@@ -5,4 +5,4 @@ As a student, it is important to be aware of how to translate what you learned i
 While I liked specific aspects of the visualizations, I thought there were also some aspects that could be re-developed to better explore the dataset. My goal here is to critique the current visualization in Statistics Canada, wireframe a solution, and finally test out my solution. 
 
 # The critique of Statistics Canada's current visualization
-![Current visualization of data](https://i.ibb.co/mBdsY5Q/Income-original-graph.jpg | width=100)
+![Current visualization of data](https://i.ibb.co/mBdsY5Q/Income-original-graph.jpg =250x250)
