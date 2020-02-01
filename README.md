@@ -19,7 +19,7 @@ Truthfulness - It would be inaccurate to tell any student with a undergraduate d
 
 # Wireframe a solution
 I am a pen-and-paper kind of thinker, so I decided to wireframe on a piece of paper:
-![My wireframes](https://i.ibb.co/QYnPrcy/IMG-0450.jpg | width=100)
+![My wireframes](https://i.ibb.co/QYnPrcy/IMG-0450.jpg)
 
 I showed all 3 options to a friend, and here is the feedback: 
 Option 1:
@@ -35,9 +35,12 @@ Option 3:
 
 In the end, I decided to implement Option 2 as my solution, because it had the most comprehensive visualization of all aspects of my dataset. I also wanted to see if the bars will indeed look overcrowded. 
 
-# Solution-building 
-My initial solution: 
+# Solution-building, V.1
+My initial solution via Tableau: 
 ![Version 1](LabourMarket_V1.png)
 Feedback from viewer: I like it! You can see how valuable each level of attainment is for each field is. For architecture & engineering, getting a masters degree doesn't help very much. For education it helps a lot! One thing I'd like to see, is the 2 levels overlay one another. So for business administration, if you can stack them, and the difference is in a different color, then the difference is obvious. 
 
-My thoughts: It makes sense t
+My thoughts: It makes sense that stacking the income of 2 year vs. 5 years will give viewers a better idea of income growth. I decided to tweak the visualization in Tableau:
+
+# Solution-building, V.2
+
